@@ -1,0 +1,14 @@
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\bin\Debug\net7.0\les_collections.exe
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\bin\Debug\net7.0\les_collections.deps.json
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\bin\Debug\net7.0\les_collections.runtimeconfig.json
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\bin\Debug\net7.0\les_collections.dll
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\bin\Debug\net7.0\les_collections.pdb
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\obj\Debug\net7.0\les_collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\obj\Debug\net7.0\les_collections.AssemblyInfoInputs.cache
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\obj\Debug\net7.0\les_collections.AssemblyInfo.cs
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\obj\Debug\net7.0\les_collections.csproj.CoreCompileInputs.cache
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\obj\Debug\net7.0\les_collections.dll
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\obj\Debug\net7.0\refint\les_collections.dll
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\obj\Debug\net7.0\les_collections.pdb
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\obj\Debug\net7.0\les_collections.genruntimeconfig.cache
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\les_collections\les_collections\obj\Debug\net7.0\ref\les_collections.dll
