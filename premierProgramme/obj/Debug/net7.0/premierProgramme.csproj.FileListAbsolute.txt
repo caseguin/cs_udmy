@@ -1,0 +1,14 @@
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\bin\Debug\net7.0\premierProgramme.exe
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\bin\Debug\net7.0\premierProgramme.deps.json
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\bin\Debug\net7.0\premierProgramme.runtimeconfig.json
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\bin\Debug\net7.0\premierProgramme.dll
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\bin\Debug\net7.0\premierProgramme.pdb
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\obj\Debug\net7.0\premierProgramme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\obj\Debug\net7.0\premierProgramme.AssemblyInfoInputs.cache
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\obj\Debug\net7.0\premierProgramme.AssemblyInfo.cs
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\obj\Debug\net7.0\premierProgramme.csproj.CoreCompileInputs.cache
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\obj\Debug\net7.0\premierProgramme.dll
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\obj\Debug\net7.0\refint\premierProgramme.dll
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\obj\Debug\net7.0\premierProgramme.pdb
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\obj\Debug\net7.0\premierProgramme.genruntimeconfig.cache
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\premierProgramme\obj\Debug\net7.0\ref\premierProgramme.dll
