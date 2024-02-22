@@ -1,0 +1,14 @@
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\bin\Debug\net7.0\generateur_phrase.exe
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\bin\Debug\net7.0\generateur_phrase.deps.json
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\bin\Debug\net7.0\generateur_phrase.runtimeconfig.json
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\bin\Debug\net7.0\generateur_phrase.dll
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\bin\Debug\net7.0\generateur_phrase.pdb
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\obj\Debug\net7.0\generateur_phrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\obj\Debug\net7.0\generateur_phrase.AssemblyInfoInputs.cache
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\obj\Debug\net7.0\generateur_phrase.AssemblyInfo.cs
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\obj\Debug\net7.0\generateur_phrase.csproj.CoreCompileInputs.cache
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\obj\Debug\net7.0\generateur_phrase.dll
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\obj\Debug\net7.0\refint\generateur_phrase.dll
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\obj\Debug\net7.0\generateur_phrase.pdb
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\obj\Debug\net7.0\generateur_phrase.genruntimeconfig.cache
+C:\Users\Charles_tour\Documents\GitHub\cs_udmy\generateur_phrase\generateur_phrase\obj\Debug\net7.0\ref\generateur_phrase.dll
