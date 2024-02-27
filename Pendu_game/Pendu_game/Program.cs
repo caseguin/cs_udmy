@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyApp
+namespace Jeu_pendu
 {
     internal class Program
     {
